@@ -24,8 +24,8 @@ int main(int argc, char* argv[])
     }
  
     // Running setting
-    string filePath = "C:/DATA/RADCOM/mrs/location_results_debug/part_0.csv";
-    string outDir = "C:/DATA/RADCOM/mrs/location_results_debug_2";
+    //string filePath = "C:/DATA/RADCOM/mrs/location_results_debug/part_0.csv";
+    //string outDir = "C:/DATA/RADCOM/mrs/location_results_debug_2";
     string filePath = argv[1];
     string outDir = argv[2];
 
